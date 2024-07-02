@@ -1,0 +1,8 @@
+{
+  "name": "Arun",
+  "email": "arunmannih97@gmail.com",
+  "password": "password123",
+  "gender": "Male",
+  "dob": "1997-08-25",
+  "productsToAdd":["iphone","Nokia","Black"]
+}
